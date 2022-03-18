@@ -1,7 +1,7 @@
 # similarityIdentifierGame
 HTML, CSS, Javascript
 
-View the website!
+Play the game below!
 
 https://farriskabalaoui.github.io/similarityIdentifierGame/
 
